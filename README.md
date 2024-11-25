@@ -26,7 +26,7 @@ Before running the scraper, ensure that you have the following installed:
 1. Clone the repository or download the ZIP file:
 
    ```bash
-   git clone https://github.com/praveen00219/E-commerce-scraping.git
+   git clone https://github.com/praveen00219/Web-Scraping-E-Commerce.git
    cd <FolderName>
 
    npm install
